@@ -1,5 +1,7 @@
 # BankBot Using NLP and PyTorch
 
+## Please visit my Portfolio website to get detailed explanation - [Bankbot](https://aishwaryakshirsagar.github.io/Portfolio_Website/post/chapter2/)
+
 ## Introduction
 In this report, I have explained the implementation of the code and methods that I have used to build a BankBot.
 
